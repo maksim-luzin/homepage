@@ -1,2 +1,4 @@
 sw.js.map
 workbox-*.js.map
+
+node_modules/
