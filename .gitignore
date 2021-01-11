@@ -1,2 +1,9 @@
 sw.js.map
 workbox-*.js.map
+
+node_modules/
+
+#Stylelint
+.stylelintrc.json
+package.json
+package-lock.json
